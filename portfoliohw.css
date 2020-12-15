@@ -1,0 +1,105 @@
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(100, 66, 66);
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(230, 223, 223);
+}
+
+.subtitle {
+    background-color: gray;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.firstwrapping {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.photogirl img {
+    width: 500px;
+    height: 300px;
+    margin: 20px; /*to add space from the walls*/
+    padding: 10px; /*adds space in the background to change color*/
+    background-color: gray; /*changing the border color*/
+}
+
+.aboutmyself {
+    margin-top: 10px;
+    margin-left: 60px;
+    background-color: rgb(216, 189, 193);
+}
+
+.space {
+    margin-bottom: 50px;
+    padding: 15px;
+    font-size: larger;
+    }
+
+.secondwrapping {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+}
+ 
+.spread {
+    margin-bottom: 25px;
+    height: 200px;
+}
+
+.circle img {
+    width: 4rem;
+    height: 4rem;
+    margin: 1px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+    background-color: darkgreen;
+    color: white;
+}
+
+.musket img {
+    width: 100%;
+}
+
+.tech {
+    background-color: grey;
+    padding: 5px;
+    color: white;
+}
+
+
+.trifecta {
+    background-color: rgb(216, 189, 193);
+    margin-top: 20px;
+    width: 30%;
+}
+
+.socialmedia img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.perinfo {
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    padding-bottom: 15px;
+    font-size: larger;
+    background-color:  rgb(230, 223, 223);
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(230, 223, 223);
+}
